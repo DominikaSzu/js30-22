@@ -1,6 +1,6 @@
 # js30-22
 
-This is the twentysecond of the Wes Bos Javascript30 Challenge. It is an exercise with getBoundingClientRect() method.
+This is the twenty-second of the Wes Bos Javascript30 Challenge. It is an exercise with getBoundingClientRect() method.
 
 ## Code dependencies
 
